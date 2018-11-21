@@ -1,0 +1,4 @@
+#Wed Nov 21 19:51:11 BRST 2018
+base.0=/home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/SimpleCalc/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
