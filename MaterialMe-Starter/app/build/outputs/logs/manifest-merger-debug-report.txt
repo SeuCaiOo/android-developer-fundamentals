@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:1-41:12
+INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:1-41:12
+INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:1-41:12
+INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:1-41:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/27262d4ca2ea412695341de5ccda08bc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/43d82f1bf936fc0b875f0947ec7d4fd8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6f5308d2a7598d2019821fb2ce543129/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/e1fbddebc3a506aa25b73daf419b56e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/ea29b5062c91374467f6ee9c38177847/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/db4b930f34eb9d8ee351cef6756226b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e20ad409c1826aa0ea7c441bdfaf1006/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/65bcc57b2bdeb7810fa5dafdf268dcbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c900bfb5a6aaca1f77a3f3f3100a766d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/be5444f4681a967158fedffee3d7f91a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d74d44381f93d7653f859d817c3f4e69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/e6c0c1e1125fcc3317d0ab7c63ef9450/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/245ad7e278ffae7f9114fc29f7287c0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c3879560c832fd4767aec9aace9f04bf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1d8c76dc0243ae084f01de7745e12f6e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/264b84badfcdb9a3fce514b7c557748e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/afa26f593d1da330b2b2c04ef461616e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/004646a78d6aac4a0fee2a08250ddef5/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:1-41:12
+INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:1-41:12
+INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:1-41:12
+	package
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:1-41:12
+		INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:5-51
+	android:versionCode
+		INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:1-41:12
+		INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:20:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/27262d4ca2ea412695341de5ccda08bc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/27262d4ca2ea412695341de5ccda08bc/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:23:9-41
+	tools:ignore
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:26:9-48
+	android:icon
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.materialme.MainActivity
+ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:27:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:31:27-74
+activity#com.example.android.materialme.DetailActivity
+ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:34:9-38:20
+	android:parentActivityName
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:35:13-55
+	android:name
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:34:19-49
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:36:13-37:48
+	android:value
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:37:17-46
+	android:name
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml:36:24-70
+uses-sdk
+INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/27262d4ca2ea412695341de5ccda08bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/27262d4ca2ea412695341de5ccda08bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/43d82f1bf936fc0b875f0947ec7d4fd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/43d82f1bf936fc0b875f0947ec7d4fd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6f5308d2a7598d2019821fb2ce543129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6f5308d2a7598d2019821fb2ce543129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/e1fbddebc3a506aa25b73daf419b56e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/e1fbddebc3a506aa25b73daf419b56e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/ea29b5062c91374467f6ee9c38177847/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/ea29b5062c91374467f6ee9c38177847/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/db4b930f34eb9d8ee351cef6756226b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/db4b930f34eb9d8ee351cef6756226b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e20ad409c1826aa0ea7c441bdfaf1006/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e20ad409c1826aa0ea7c441bdfaf1006/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/65bcc57b2bdeb7810fa5dafdf268dcbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/65bcc57b2bdeb7810fa5dafdf268dcbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c900bfb5a6aaca1f77a3f3f3100a766d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c900bfb5a6aaca1f77a3f3f3100a766d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/be5444f4681a967158fedffee3d7f91a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/be5444f4681a967158fedffee3d7f91a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d74d44381f93d7653f859d817c3f4e69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d74d44381f93d7653f859d817c3f4e69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/e6c0c1e1125fcc3317d0ab7c63ef9450/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/e6c0c1e1125fcc3317d0ab7c63ef9450/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/245ad7e278ffae7f9114fc29f7287c0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/245ad7e278ffae7f9114fc29f7287c0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c3879560c832fd4767aec9aace9f04bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c3879560c832fd4767aec9aace9f04bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1d8c76dc0243ae084f01de7745e12f6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1d8c76dc0243ae084f01de7745e12f6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/264b84badfcdb9a3fce514b7c557748e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/264b84badfcdb9a3fce514b7c557748e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/afa26f593d1da330b2b2c04ef461616e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/afa26f593d1da330b2b2c04ef461616e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/004646a78d6aac4a0fee2a08250ddef5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/seucaioo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/004646a78d6aac4a0fee2a08250ddef5/AndroidManifest.xml:20:5-44
+INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/seucaioo/Development/SeuCaiOo/Codelabs Projects/android-developer-fundamentals/MaterialMe-Starter/app/src/main/AndroidManifest.xml
