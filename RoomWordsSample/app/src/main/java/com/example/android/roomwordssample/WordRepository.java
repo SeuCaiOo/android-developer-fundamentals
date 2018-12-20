@@ -38,4 +38,41 @@ public class WordRepository {
             return null;
         }
     }
+
+    public void deleteAll() {
+        new deleteAllAsyncTask(mWordDao).execute();
+    }
+
+    private static class deleteAllAsyncTask extends AsyncTask<Void, Void, Void> {
+
+        private WordDao mAsyncTaskDao;
+
+        deleteAllAsyncTask(WordDao dao) {
+            this.mAsyncTaskDao = dao;
+        }
+
+        @Override
+        protected Void doInBackground(Void... voids) {
+            mAsyncTaskDao.deleteAll();
+            return null;
+        }
+    }
+
+    public void deleteWord(Word word) {
+        new deleteWordAsyncTask(mWordDao).execute(word);
+    }
+
+    private static class deleteWordAsyncTask extends AsyncTask<Word, Void, Void> {
+        private WordDao mAsyncTaskDao;
+
+        deleteWordAsyncTask(WordDao dao) {
+            this.mAsyncTaskDao = dao;
+        }
+
+        @Override
+        protected Void doInBackground(Word... words) {
+            mAsyncTaskDao.deleteWord(words[0]);
+            return null;
+        }
+    }
 }
